@@ -1,0 +1,450 @@
+frame:0    pts:0       pts_time:0
+lavfi.siti.si=126.45
+lavfi.siti.ti=0.00
+frame:1    pts:1       pts_time:0.0333333
+lavfi.siti.si=127.64
+lavfi.siti.ti=32.87
+frame:2    pts:2       pts_time:0.0666667
+lavfi.siti.si=128.16
+lavfi.siti.ti=33.04
+frame:3    pts:3       pts_time:0.1
+lavfi.siti.si=128.61
+lavfi.siti.ti=33.89
+frame:4    pts:4       pts_time:0.133333
+lavfi.siti.si=130.17
+lavfi.siti.ti=34.37
+frame:5    pts:5       pts_time:0.166667
+lavfi.siti.si=131.13
+lavfi.siti.ti=34.66
+frame:6    pts:6       pts_time:0.2
+lavfi.siti.si=133.95
+lavfi.siti.ti=35.02
+frame:7    pts:7       pts_time:0.233333
+lavfi.siti.si=134.63
+lavfi.siti.ti=35.34
+frame:8    pts:8       pts_time:0.266667
+lavfi.siti.si=135.96
+lavfi.siti.ti=35.58
+frame:9    pts:9       pts_time:0.3
+lavfi.siti.si=137.94
+lavfi.siti.ti=36.78
+frame:10   pts:10      pts_time:0.333333
+lavfi.siti.si=138.52
+lavfi.siti.ti=36.70
+frame:11   pts:11      pts_time:0.366667
+lavfi.siti.si=139.64
+lavfi.siti.ti=36.20
+frame:12   pts:12      pts_time:0.4
+lavfi.siti.si=140.14
+lavfi.siti.ti=36.14
+frame:13   pts:13      pts_time:0.433333
+lavfi.siti.si=140.99
+lavfi.siti.ti=36.17
+frame:14   pts:14      pts_time:0.466667
+lavfi.siti.si=141.27
+lavfi.siti.ti=35.94
+frame:15   pts:15      pts_time:0.5
+lavfi.siti.si=141.34
+lavfi.siti.ti=36.18
+frame:16   pts:16      pts_time:0.533333
+lavfi.siti.si=142.02
+lavfi.siti.ti=36.41
+frame:17   pts:17      pts_time:0.566667
+lavfi.siti.si=141.80
+lavfi.siti.ti=36.72
+frame:18   pts:18      pts_time:0.6
+lavfi.siti.si=142.88
+lavfi.siti.ti=36.81
+frame:19   pts:19      pts_time:0.633333
+lavfi.siti.si=143.24
+lavfi.siti.ti=36.69
+frame:20   pts:20      pts_time:0.666667
+lavfi.siti.si=143.59
+lavfi.siti.ti=36.56
+frame:21   pts:21      pts_time:0.7
+lavfi.siti.si=144.18
+lavfi.siti.ti=36.49
+frame:22   pts:22      pts_time:0.733333
+lavfi.siti.si=144.54
+lavfi.siti.ti=36.14
+frame:23   pts:23      pts_time:0.766667
+lavfi.siti.si=144.60
+lavfi.siti.ti=36.08
+frame:24   pts:24      pts_time:0.8
+lavfi.siti.si=144.55
+lavfi.siti.ti=36.04
+frame:25   pts:25      pts_time:0.833333
+lavfi.siti.si=145.18
+lavfi.siti.ti=37.47
+frame:26   pts:26      pts_time:0.866667
+lavfi.siti.si=144.86
+lavfi.siti.ti=37.42
+frame:27   pts:27      pts_time:0.9
+lavfi.siti.si=144.73
+lavfi.siti.ti=37.44
+frame:28   pts:28      pts_time:0.933333
+lavfi.siti.si=144.61
+lavfi.siti.ti=37.59
+frame:29   pts:29      pts_time:0.966667
+lavfi.siti.si=143.89
+lavfi.siti.ti=37.59
+frame:30   pts:30      pts_time:1
+lavfi.siti.si=144.23
+lavfi.siti.ti=37.68
+frame:31   pts:31      pts_time:1.033333
+lavfi.siti.si=143.75
+lavfi.siti.ti=38.06
+frame:32   pts:32      pts_time:1.066667
+lavfi.siti.si=143.49
+lavfi.siti.ti=37.94
+frame:33   pts:33      pts_time:1.1
+lavfi.siti.si=143.86
+lavfi.siti.ti=38.05
+frame:34   pts:34      pts_time:1.133333
+lavfi.siti.si=144.64
+lavfi.siti.ti=38.18
+frame:35   pts:35      pts_time:1.166667
+lavfi.siti.si=144.27
+lavfi.siti.ti=38.23
+frame:36   pts:36      pts_time:1.2
+lavfi.siti.si=144.52
+lavfi.siti.ti=38.19
+frame:37   pts:37      pts_time:1.233333
+lavfi.siti.si=144.45
+lavfi.siti.ti=38.27
+frame:38   pts:38      pts_time:1.266667
+lavfi.siti.si=145.31
+lavfi.siti.ti=38.33
+frame:39   pts:39      pts_time:1.3
+lavfi.siti.si=144.89
+lavfi.siti.ti=38.17
+frame:40   pts:40      pts_time:1.333333
+lavfi.siti.si=144.20
+lavfi.siti.ti=38.04
+frame:41   pts:41      pts_time:1.366667
+lavfi.siti.si=143.80
+lavfi.siti.ti=38.02
+frame:42   pts:42      pts_time:1.4
+lavfi.siti.si=144.07
+lavfi.siti.ti=37.90
+frame:43   pts:43      pts_time:1.433333
+lavfi.siti.si=142.82
+lavfi.siti.ti=37.58
+frame:44   pts:44      pts_time:1.466667
+lavfi.siti.si=143.96
+lavfi.siti.ti=37.81
+frame:45   pts:45      pts_time:1.5
+lavfi.siti.si=144.14
+lavfi.siti.ti=37.86
+frame:46   pts:46      pts_time:1.533333
+lavfi.siti.si=144.55
+lavfi.siti.ti=37.67
+frame:47   pts:47      pts_time:1.566667
+lavfi.siti.si=144.70
+lavfi.siti.ti=37.63
+frame:48   pts:48      pts_time:1.6
+lavfi.siti.si=144.32
+lavfi.siti.ti=37.45
+frame:49   pts:49      pts_time:1.633333
+lavfi.siti.si=144.05
+lavfi.siti.ti=37.22
+frame:50   pts:50      pts_time:1.666667
+lavfi.siti.si=144.71
+lavfi.siti.ti=36.91
+frame:51   pts:51      pts_time:1.7
+lavfi.siti.si=144.68
+lavfi.siti.ti=36.93
+frame:52   pts:52      pts_time:1.733333
+lavfi.siti.si=144.75
+lavfi.siti.ti=36.75
+frame:53   pts:53      pts_time:1.766667
+lavfi.siti.si=144.71
+lavfi.siti.ti=36.52
+frame:54   pts:54      pts_time:1.8
+lavfi.siti.si=145.24
+lavfi.siti.ti=36.40
+frame:55   pts:55      pts_time:1.833333
+lavfi.siti.si=144.31
+lavfi.siti.ti=36.36
+frame:56   pts:56      pts_time:1.866667
+lavfi.siti.si=144.47
+lavfi.siti.ti=36.38
+frame:57   pts:57      pts_time:1.9
+lavfi.siti.si=145.38
+lavfi.siti.ti=36.53
+frame:58   pts:58      pts_time:1.933333
+lavfi.siti.si=146.35
+lavfi.siti.ti=36.76
+frame:59   pts:59      pts_time:1.966667
+lavfi.siti.si=146.37
+lavfi.siti.ti=36.87
+frame:60   pts:60      pts_time:2
+lavfi.siti.si=147.49
+lavfi.siti.ti=36.67
+frame:61   pts:61      pts_time:2.033333
+lavfi.siti.si=147.00
+lavfi.siti.ti=36.63
+frame:62   pts:62      pts_time:2.066667
+lavfi.siti.si=147.62
+lavfi.siti.ti=36.13
+frame:63   pts:63      pts_time:2.1
+lavfi.siti.si=146.97
+lavfi.siti.ti=35.77
+frame:64   pts:64      pts_time:2.133333
+lavfi.siti.si=145.93
+lavfi.siti.ti=35.18
+frame:65   pts:65      pts_time:2.166667
+lavfi.siti.si=145.67
+lavfi.siti.ti=34.48
+frame:66   pts:66      pts_time:2.2
+lavfi.siti.si=145.94
+lavfi.siti.ti=34.29
+frame:67   pts:67      pts_time:2.233333
+lavfi.siti.si=146.07
+lavfi.siti.ti=34.37
+frame:68   pts:68      pts_time:2.266667
+lavfi.siti.si=146.57
+lavfi.siti.ti=34.15
+frame:69   pts:69      pts_time:2.3
+lavfi.siti.si=145.79
+lavfi.siti.ti=34.09
+frame:70   pts:70      pts_time:2.333333
+lavfi.siti.si=145.86
+lavfi.siti.ti=34.10
+frame:71   pts:71      pts_time:2.366667
+lavfi.siti.si=146.55
+lavfi.siti.ti=34.19
+frame:72   pts:72      pts_time:2.4
+lavfi.siti.si=146.63
+lavfi.siti.ti=34.07
+frame:73   pts:73      pts_time:2.433333
+lavfi.siti.si=146.32
+lavfi.siti.ti=33.77
+frame:74   pts:74      pts_time:2.466667
+lavfi.siti.si=146.54
+lavfi.siti.ti=33.39
+frame:75   pts:75      pts_time:2.5
+lavfi.siti.si=146.47
+lavfi.siti.ti=32.80
+frame:76   pts:76      pts_time:2.533333
+lavfi.siti.si=146.82
+lavfi.siti.ti=32.49
+frame:77   pts:77      pts_time:2.566667
+lavfi.siti.si=146.29
+lavfi.siti.ti=32.35
+frame:78   pts:78      pts_time:2.6
+lavfi.siti.si=146.28
+lavfi.siti.ti=32.14
+frame:79   pts:79      pts_time:2.633333
+lavfi.siti.si=145.91
+lavfi.siti.ti=31.44
+frame:80   pts:80      pts_time:2.666667
+lavfi.siti.si=145.85
+lavfi.siti.ti=30.34
+frame:81   pts:81      pts_time:2.7
+lavfi.siti.si=145.34
+lavfi.siti.ti=30.37
+frame:82   pts:82      pts_time:2.733333
+lavfi.siti.si=145.12
+lavfi.siti.ti=31.06
+frame:83   pts:83      pts_time:2.766667
+lavfi.siti.si=145.44
+lavfi.siti.ti=30.92
+frame:84   pts:84      pts_time:2.8
+lavfi.siti.si=146.07
+lavfi.siti.ti=32.36
+frame:85   pts:85      pts_time:2.833333
+lavfi.siti.si=145.88
+lavfi.siti.ti=33.39
+frame:86   pts:86      pts_time:2.866667
+lavfi.siti.si=146.26
+lavfi.siti.ti=34.91
+frame:87   pts:87      pts_time:2.9
+lavfi.siti.si=146.34
+lavfi.siti.ti=36.74
+frame:88   pts:88      pts_time:2.933333
+lavfi.siti.si=147.65
+lavfi.siti.ti=37.56
+frame:89   pts:89      pts_time:2.966667
+lavfi.siti.si=147.86
+lavfi.siti.ti=37.83
+frame:90   pts:90      pts_time:3
+lavfi.siti.si=147.90
+lavfi.siti.ti=37.86
+frame:91   pts:91      pts_time:3.033333
+lavfi.siti.si=147.74
+lavfi.siti.ti=37.95
+frame:92   pts:92      pts_time:3.066667
+lavfi.siti.si=147.60
+lavfi.siti.ti=37.71
+frame:93   pts:93      pts_time:3.1
+lavfi.siti.si=147.33
+lavfi.siti.ti=37.02
+frame:94   pts:94      pts_time:3.133333
+lavfi.siti.si=147.51
+lavfi.siti.ti=36.45
+frame:95   pts:95      pts_time:3.166667
+lavfi.siti.si=146.92
+lavfi.siti.ti=34.98
+frame:96   pts:96      pts_time:3.2
+lavfi.siti.si=147.35
+lavfi.siti.ti=33.99
+frame:97   pts:97      pts_time:3.233333
+lavfi.siti.si=147.32
+lavfi.siti.ti=33.54
+frame:98   pts:98      pts_time:3.266667
+lavfi.siti.si=147.53
+lavfi.siti.ti=33.25
+frame:99   pts:99      pts_time:3.3
+lavfi.siti.si=147.32
+lavfi.siti.ti=33.53
+frame:100  pts:100     pts_time:3.333333
+lavfi.siti.si=148.18
+lavfi.siti.ti=34.07
+frame:101  pts:101     pts_time:3.366667
+lavfi.siti.si=148.04
+lavfi.siti.ti=34.32
+frame:102  pts:102     pts_time:3.4
+lavfi.siti.si=148.78
+lavfi.siti.ti=33.80
+frame:103  pts:103     pts_time:3.433333
+lavfi.siti.si=149.05
+lavfi.siti.ti=33.26
+frame:104  pts:104     pts_time:3.466667
+lavfi.siti.si=150.40
+lavfi.siti.ti=32.95
+frame:105  pts:105     pts_time:3.5
+lavfi.siti.si=149.79
+lavfi.siti.ti=32.98
+frame:106  pts:106     pts_time:3.533333
+lavfi.siti.si=150.63
+lavfi.siti.ti=32.55
+frame:107  pts:107     pts_time:3.566667
+lavfi.siti.si=149.65
+lavfi.siti.ti=32.04
+frame:108  pts:108     pts_time:3.6
+lavfi.siti.si=149.03
+lavfi.siti.ti=31.69
+frame:109  pts:109     pts_time:3.633333
+lavfi.siti.si=147.86
+lavfi.siti.ti=30.91
+frame:110  pts:110     pts_time:3.666667
+lavfi.siti.si=147.48
+lavfi.siti.ti=30.71
+frame:111  pts:111     pts_time:3.7
+lavfi.siti.si=146.63
+lavfi.siti.ti=30.71
+frame:112  pts:112     pts_time:3.733333
+lavfi.siti.si=147.07
+lavfi.siti.ti=30.71
+frame:113  pts:113     pts_time:3.766667
+lavfi.siti.si=146.50
+lavfi.siti.ti=30.44
+frame:114  pts:114     pts_time:3.8
+lavfi.siti.si=146.83
+lavfi.siti.ti=30.29
+frame:115  pts:115     pts_time:3.833333
+lavfi.siti.si=145.89
+lavfi.siti.ti=30.48
+frame:116  pts:116     pts_time:3.866667
+lavfi.siti.si=146.52
+lavfi.siti.ti=30.93
+frame:117  pts:117     pts_time:3.9
+lavfi.siti.si=145.84
+lavfi.siti.ti=30.91
+frame:118  pts:118     pts_time:3.933333
+lavfi.siti.si=145.85
+lavfi.siti.ti=30.92
+frame:119  pts:119     pts_time:3.966667
+lavfi.siti.si=144.97
+lavfi.siti.ti=30.81
+frame:120  pts:120     pts_time:4
+lavfi.siti.si=144.57
+lavfi.siti.ti=31.33
+frame:121  pts:121     pts_time:4.033333
+lavfi.siti.si=144.08
+lavfi.siti.ti=31.13
+frame:122  pts:122     pts_time:4.066667
+lavfi.siti.si=144.65
+lavfi.siti.ti=30.91
+frame:123  pts:123     pts_time:4.1
+lavfi.siti.si=143.78
+lavfi.siti.ti=31.29
+frame:124  pts:124     pts_time:4.133333
+lavfi.siti.si=143.99
+lavfi.siti.ti=31.33
+frame:125  pts:125     pts_time:4.166667
+lavfi.siti.si=143.86
+lavfi.siti.ti=31.00
+frame:126  pts:126     pts_time:4.2
+lavfi.siti.si=143.75
+lavfi.siti.ti=30.66
+frame:127  pts:127     pts_time:4.233333
+lavfi.siti.si=142.39
+lavfi.siti.ti=30.78
+frame:128  pts:128     pts_time:4.266667
+lavfi.siti.si=142.65
+lavfi.siti.ti=30.68
+frame:129  pts:129     pts_time:4.3
+lavfi.siti.si=141.20
+lavfi.siti.ti=30.76
+frame:130  pts:130     pts_time:4.333333
+lavfi.siti.si=140.09
+lavfi.siti.ti=30.09
+frame:131  pts:131     pts_time:4.366667
+lavfi.siti.si=139.08
+lavfi.siti.ti=29.42
+frame:132  pts:132     pts_time:4.4
+lavfi.siti.si=138.89
+lavfi.siti.ti=29.28
+frame:133  pts:133     pts_time:4.433333
+lavfi.siti.si=138.23
+lavfi.siti.ti=28.92
+frame:134  pts:134     pts_time:4.466667
+lavfi.siti.si=137.89
+lavfi.siti.ti=28.71
+frame:135  pts:135     pts_time:4.5
+lavfi.siti.si=136.59
+lavfi.siti.ti=28.08
+frame:136  pts:136     pts_time:4.533333
+lavfi.siti.si=136.69
+lavfi.siti.ti=27.64
+frame:137  pts:137     pts_time:4.566667
+lavfi.siti.si=135.75
+lavfi.siti.ti=27.54
+frame:138  pts:138     pts_time:4.6
+lavfi.siti.si=136.60
+lavfi.siti.ti=27.36
+frame:139  pts:139     pts_time:4.633333
+lavfi.siti.si=135.59
+lavfi.siti.ti=26.92
+frame:140  pts:140     pts_time:4.666667
+lavfi.siti.si=135.79
+lavfi.siti.ti=27.05
+frame:141  pts:141     pts_time:4.7
+lavfi.siti.si=134.14
+lavfi.siti.ti=27.14
+frame:142  pts:142     pts_time:4.733333
+lavfi.siti.si=133.99
+lavfi.siti.ti=26.84
+frame:143  pts:143     pts_time:4.766667
+lavfi.siti.si=133.74
+lavfi.siti.ti=27.16
+frame:144  pts:144     pts_time:4.8
+lavfi.siti.si=133.71
+lavfi.siti.ti=27.09
+frame:145  pts:145     pts_time:4.833333
+lavfi.siti.si=133.74
+lavfi.siti.ti=26.67
+frame:146  pts:146     pts_time:4.866667
+lavfi.siti.si=133.51
+lavfi.siti.ti=26.63
+frame:147  pts:147     pts_time:4.9
+lavfi.siti.si=133.71
+lavfi.siti.ti=26.61
+frame:148  pts:148     pts_time:4.933333
+lavfi.siti.si=134.65
+lavfi.siti.ti=27.01
+frame:149  pts:149     pts_time:4.966667
+lavfi.siti.si=134.69
+lavfi.siti.ti=27.29

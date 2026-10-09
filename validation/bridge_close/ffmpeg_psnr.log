@@ -1,0 +1,31 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '.\runs\bridge_close\300\encoded.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf62.12.100
+  Duration: 00:00:05.00, start: 0.000000, bitrate: 305 kb/s
+  Stream #0:0[0x1](und): Video: hevc (Main) (hev1 / 0x31766568), yuv420p(tv, progressive), 352x288 [SAR 128:117 DAR 1408:1053], 301 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      encoder         : Lavc62.28.100 libx265
+Input #1, yuv4mpegpipe, from '.\data\bridge_close\reference.y4m':
+  Duration: 00:00:05.00, start: 0.000000, bitrate: 36496 kb/s
+  Stream #1:0: Video: rawvideo (I420 / 0x30323449), yuv420p(progressive), 352x288, SAR 128:117 DAR 1408:1053, 30 fps, 30 tbr, 30 tbn
+Stream mapping:
+  Stream #0:0 (hevc) -> settb:default
+  Stream #1:0 (rawvideo) -> settb:default
+  psnr:default -> Stream #0:0 (wrapped_avframe)
+Press [q] to stop, [?] for help
+Output #0, null, to 'NUL':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf62.12.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(tv, progressive), 352x288 [SAR 128:117 DAR 1408:1053], q=2-31, 200 kb/s, 30 fps, 30 tbn
+    Metadata:
+      encoder         : Lavc62.28.100 wrapped_avframe
+[Parsed_psnr_4 @ 000001d521466b40] PSNR y:34.518040 u:37.900860 v:38.803772 average:35.458591 min:34.096261 max:39.699320
+[out#0/null @ 000001d52147abc0] video:62KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  150 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.00 bitrate=N/A speed= 194x elapsed=0:00:00.02    

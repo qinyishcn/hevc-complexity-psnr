@@ -1,0 +1,14 @@
+[
+  "ffmpeg",
+  "-hide_banner",
+  "-y",
+  "-i",
+  ".\\runs\\bridge_close\\300\\encoded.mp4",
+  "-i",
+  ".\\data\\bridge_close\\reference.y4m",
+  "-filter_complex",
+  "[0:v]settb=AVTB,setpts=PTS-STARTPTS[a];[1:v]settb=AVTB,setpts=PTS-STARTPTS[b];[a][b]psnr=stats_file=psnr.txt:stats_version=2:shortest=1",
+  "-f",
+  "null",
+  "NUL"
+]

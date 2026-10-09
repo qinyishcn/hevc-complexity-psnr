@@ -1,0 +1,53 @@
+{
+  "status": "passed",
+  "sequences": 20,
+  "encodes": 60,
+  "unique_source_frames": 3000,
+  "decoded_frame_measurements": 9000,
+  "max_abs_bitrate_error_pct": 0.9930666666666644,
+  "frame_counts_formats_and_sha256": "all passed",
+  "fixed_I_frames": [
+    0,
+    60,
+    120
+  ],
+  "reference_transfer": {
+    "all_256_luma_codes_checked": true,
+    "max_abs_transfer_error": 2.9132252166164108e-12,
+    "full_range_max_abs_transfer_error": 3.467448550509289e-12,
+    "reference_source_sha256": "84557e030e302fa14e28a1cd1227f3320986050c4cf5f5f4d590215971329873",
+    "note": "BT.1886 standalone function with Lmin=.01, Lmax=300; not the reference package simplified display wrapper."
+  },
+  "ffmpeg_crosschecks": [
+    {
+      "sequence": "akiyo",
+      "rate_kbps": 300,
+      "frames_compared": 150,
+      "max_si_abs_error": 0.004998722329020211,
+      "max_ti_abs_error": 0.004968425294075818,
+      "max_frame_psnr_error_db": 0.004973872581501837,
+      "max_frame_mse_error": 0.0049672506313127585,
+      "sequence_psnr_error_db": 7.705943261271386e-08
+    },
+    {
+      "sequence": "bus",
+      "rate_kbps": 300,
+      "frames_compared": 150,
+      "max_si_abs_error": 0.00497608632016977,
+      "max_ti_abs_error": 0.00499961218037015,
+      "max_frame_psnr_error_db": 0.0049426374819177,
+      "max_frame_mse_error": 0.004919113005044551,
+      "sequence_psnr_error_db": 3.3300830892812883e-07
+    },
+    {
+      "sequence": "bridge_close",
+      "rate_kbps": 300,
+      "frames_compared": 150,
+      "max_si_abs_error": 0.004984137654716392,
+      "max_ti_abs_error": 0.004998555774221813,
+      "max_frame_psnr_error_db": 0.0049957603071035805,
+      "max_frame_mse_error": 0.004982244318181728,
+      "sequence_psnr_error_db": 4.1935118844094177e-07
+    }
+  ]
+}

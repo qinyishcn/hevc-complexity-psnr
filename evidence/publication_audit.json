@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "date": "2026-10-09",
+  "scope": "Public export consistency and privacy; does not revalidate excluded video bytes or decoded pixels.",
+  "sequences": 20,
+  "encodes": 60,
+  "decoded_frame_measurements": 9000,
+  "source_tables_and_figures_byte_identical": true,
+  "all_six_primary_pearson_values_recomputed": true,
+  "packet_bitrate_mse_psnr_and_sequence_means_consistent": true,
+  "final_encode_evidence_consistent": true,
+  "reference_transfer": {
+    "all_256_luma_codes_checked": true,
+    "max_abs_transfer_error": 2.9132252166164108e-12,
+    "full_range_max_abs_transfer_error": 3.467448550509289e-12,
+    "reference_source_sha256": "84557e030e302fa14e28a1cd1227f3320986050c4cf5f5f4d590215971329873",
+    "note": "BT.1886 standalone function with Lmin=.01, Lmax=300; not the reference package simplified display wrapper."
+  },
+  "metric_unit_tests": "7 passed in the public export",
+  "self_contained_html_figures": 5,
+  "private_path_and_secret_pattern_scan": "passed",
+  "excluded_media_and_standard_files": true
+}

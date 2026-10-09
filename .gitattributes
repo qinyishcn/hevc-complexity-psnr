@@ -1,0 +1,7 @@
+# Keep published measurement and reference bytes unchanged across platforms.
+* -text whitespace=trailing-space,space-before-tab,cr-at-eol
+*.png binary
+# Preserve whitespace emitted by plotting and measurement tools.
+*.svg -whitespace
+validation/** -whitespace
+sources/vqeg_siti.py -whitespace

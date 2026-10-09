@@ -1,0 +1,422 @@
+[
+  {
+    "sequence": "akiyo",
+    "url": "https://media.xiph.org/video/derf/y4m/akiyo_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "52c197667c5a6b4a21d57ded996f1e9b936346505a035618d61df2a7d9c3823a",
+    "sha256_reference": "93813e533525696b4f862f25606d370052f49ec6ad85e41ae8be728190a270f7",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:18:02Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "bridge_close",
+    "url": "https://media.xiph.org/video/derf/y4m/bridge_close_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "254ca3d95b130a39bd0ffe649ea22842105f20e842d1dbfe1250a2f5be876059",
+    "sha256_reference": "9a9979275791e67be8d84288b844c1895664245b45d3f0e919ddfc4445b2dd71",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:18:02Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "bridge_far",
+    "url": "https://media.xiph.org/video/derf/y4m/bridge_far_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "bf946989f07fbdb8f5e0ea631e185baab0181eee10515d61305704dc5e92b45a",
+    "sha256_reference": "1ab6398baa9f0110a49ef8ce8eca8ed212d9be45b20a1619893966358404d2f3",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:18:02Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "bus",
+    "url": "https://media.xiph.org/video/derf/y4m/bus_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30:1 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810538,
+    "sha256_source_prefix": "08f557aade483465fca3ad9f5ce9a5b6aad7e833c871ec969b5b8fbb0a791c87",
+    "sha256_reference": "08f557aade483465fca3ad9f5ce9a5b6aad7e833c871ec969b5b8fbb0a791c87",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810537,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:18:03Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "coastguard",
+    "url": "https://media.xiph.org/video/derf/y4m/coastguard_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "599c76ddec3ec2f5022c0f49e7291b98e02a66a5eb12f0c5b51ad50b0ae14a58",
+    "sha256_reference": "b5c00ba568bf277ef0a452a4cba6e3974d684c3ab9b367b9c12b269d0fc776a9",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:18:03Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "container",
+    "url": "https://media.xiph.org/video/derf/y4m/container_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "e05483b2476b9186bc10daca8b252e9f3f5bbd45c3ca667e4bc238e3e9551f85",
+    "sha256_reference": "685f70dc0e143865f67c78b065d421e4ce0d07dd20fa33ef325d6c4cdcf978a4",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:18:22Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "flower",
+    "url": "https://media.xiph.org/video/derf/y4m/flower_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "8997f89b46e5f0625c34dbf677d3b56fd5ff8c184062460f9ae9b32dcd09fb1a",
+    "sha256_reference": "3c7db2289489e77a918fa1009779b87281244e5c24ddcc70284aa5ed71249448",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:18:42Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "football",
+    "url": "https://media.xiph.org/video/derf/y4m/football_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30:1 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810538,
+    "sha256_source_prefix": "3fc3dc0e6031cfaeb7d4e9a5c40723ebf64310c232f8d4956413a7b26ed292f8",
+    "sha256_reference": "3fc3dc0e6031cfaeb7d4e9a5c40723ebf64310c232f8d4956413a7b26ed292f8",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810537,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:19:43Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "foreman",
+    "url": "https://media.xiph.org/video/derf/y4m/foreman_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "cc5a48c56c55509abdb167dedfd6244db1009fd030ed46d26864ad074443762b",
+    "sha256_reference": "c1d3f452b6a98238aa92b760bd86d9a4fc526ee5623e98d7afef99e66ed4ae86",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:20:00Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "hall_monitor",
+    "url": "https://media.xiph.org/video/derf/y4m/hall_monitor_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "c288ec0ae8738f8b7c129529946b03194d37175d63e8d1b5f6a5933858f1ba25",
+    "sha256_reference": "ecff4719622f9fa2ce15fcb0e60c43557777ad0fab0ed691e2a7b3d93c31525e",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:20:52Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "highway",
+    "url": "https://media.xiph.org/video/derf/y4m/highway_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "90ae885a0d3d36942eeec62c9c6ce1a1bf4527c3aa44be87573b79067ca4483b",
+    "sha256_reference": "a42dcdca1e7e7249e4a01736c3e215cd821032e0d080244e39b2ab9d0b2cba12",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:21:05Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "husky",
+    "url": "https://media.xiph.org/video/derf/y4m/husky_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "47ba822ad0d710f1e5b3f78cb24357797f407da78f3e9b0241028d301e23b776",
+    "sha256_reference": "d48880ffdefaaeb0c20ec464c1ffd395a4b5dca307e70d148ab7e2f37fdfdbbc",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:22:14Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "ice",
+    "url": "https://media.xiph.org/video/derf/y4m/ice_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30:1 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810538,
+    "sha256_source_prefix": "433db39d576595f87a689c150170b980f60cfecb478b5c7de7993898058b6658",
+    "sha256_reference": "433db39d576595f87a689c150170b980f60cfecb478b5c7de7993898058b6658",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810537,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:22:15Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "mobile",
+    "url": "https://media.xiph.org/video/derf/y4m/mobile_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117 C420mpeg2",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810554,
+    "sha256_source_prefix": "2497447258b17f38361d7e809eff50b295e33bfd6a41aead18d104dadd67bfad",
+    "sha256_reference": "62ba94ac0e396487a6ab738d0cbad587300fb0e1b835691590a5db1b0aee1ff1",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810553,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:22:48Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "mother_daughter",
+    "url": "https://media.xiph.org/video/derf/y4m/mother_daughter_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "a8bbb78ed091f62057bd5e6e7cd9ffc3e60803af05a5e6ff2d9c5247d2a003cd",
+    "sha256_reference": "37cb3f883562b52efea2a7a878e481031c74df82bde68cb79f05f30dc66b2d12",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:23:26Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "news",
+    "url": "https://media.xiph.org/video/derf/y4m/news_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "09d83cab25ecccb1bd3f0d6c14c7e1039a01d1cccfc9b2b03a6d46802cc0216f",
+    "sha256_reference": "a68f2e538c146294fe2cdd14bf6f994e2c3a58a27581e79f0516985ce1de03d8",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:25:15Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "silent",
+    "url": "https://media.xiph.org/video/derf/y4m/silent_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "b5c17f4b5dcecd3b5604af9b28a9f614aca8e479c41c2e10c4a3961e9c3826b4",
+    "sha256_reference": "b37a12cf32f23acd2e8535d1d236b9fed43fde9a36203db7ec21f336ffc98c58",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:24:12Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "soccer",
+    "url": "https://media.xiph.org/video/derf/y4m/soccer_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30:1 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810538,
+    "sha256_source_prefix": "e924cbe80bbfdd1b79f2d21d58b364dd086060ad7f1e0fda0194d1ad94e000f9",
+    "sha256_reference": "e924cbe80bbfdd1b79f2d21d58b364dd086060ad7f1e0fda0194d1ad94e000f9",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810537,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:27:07Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "tempete",
+    "url": "https://media.xiph.org/video/derf/y4m/tempete_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "af4e2c3e6e973177a263eab29ca8a97dcd76b65bd9060d05999e5800d2c3a4c2",
+    "sha256_reference": "e57a22a396d6b685627bde83736d4a17a9acb6692b4c32cb8032f8f71d2ae4a6",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:26:01Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  },
+  {
+    "sequence": "waterfall",
+    "url": "https://media.xiph.org/video/derf/y4m/waterfall_cif.y4m",
+    "source_header": "YUV4MPEG2 W352 H288 F30000:1001 Ip A128:117",
+    "frames_retained": 150,
+    "source_prefix_bytes": 22810544,
+    "sha256_source_prefix": "c2c27f87dbc431cef19db31224cae2643bea9431640a392f5f3fd8611578ece9",
+    "sha256_reference": "1df61cd5404727c0ea39fb565e2179f24a3c325127f120a430da2653f072bdb1",
+    "http": {
+      "status": 206,
+      "range_start": 0,
+      "range_end": 22810543,
+      "strategy": "32 bounded parallel ranges, independently length checked"
+    },
+    "downloaded_utc": "2026-10-08T15:27:02Z",
+    "reference_fps": 30,
+    "width": 352,
+    "height": 288,
+    "pix_fmt": "yuv420p",
+    "license_note": "Xiph publicly available test media; no uniform open-source license. See original copyright links at https://media.xiph.org/video/derf/ ."
+  }
+]

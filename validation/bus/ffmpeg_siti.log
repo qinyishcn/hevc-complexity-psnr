@@ -1,0 +1,14 @@
+Input #0, yuv4mpegpipe, from '.\data\bus\reference.y4m':
+  Duration: 00:00:05.00, start: 0.000000, bitrate: 36496 kb/s
+  Stream #0:0: Video: rawvideo (I420 / 0x30323449), yuv420p(progressive), 352x288, SAR 128:117 DAR 1408:1053, 30 fps, 30 tbr, 30 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (rawvideo (native) -> wrapped_avframe (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'NUL':
+  Metadata:
+    encoder         : Lavf62.12.100
+  Stream #0:0: Video: wrapped_avframe, yuv420p(pc, progressive), 352x288 [SAR 128:117 DAR 1408:1053], q=2-31, 200 kb/s, 30 fps, 30 tbn
+    Metadata:
+      encoder         : Lavc62.28.100 wrapped_avframe
+[out#0/null @ 0000016b8321ab00] video:62KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  150 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.00 bitrate=N/A speed=56.4x elapsed=0:00:00.08    

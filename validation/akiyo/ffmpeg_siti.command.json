@@ -1,0 +1,12 @@
+[
+  "ffmpeg",
+  "-hide_banner",
+  "-y",
+  "-i",
+  ".\\data\\akiyo\\reference.y4m",
+  "-vf",
+  "setparams=range=full,siti,metadata=print:file=siti.txt",
+  "-f",
+  "null",
+  "NUL"
+]

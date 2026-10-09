@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+runs/
+sources/xiph_index.html
+sources/*.pdf
+sources/P910*.txt
+sources/source_contact_sheet*.png
+*.mp4
+*.y4m
+*.yuv
+*.bin
+*.cutree
+*.stats
