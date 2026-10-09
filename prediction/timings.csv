@@ -1,0 +1,31 @@
+level,algorithm,feature_set,outer_20_folds_wall_seconds,batch_inference_microseconds_per_row,note
+frame,ridge,rate_type,1.0961142000742257,,
+frame,ridge,si_ti,1.1927287001162767,,
+frame,ridge,qp_only,1.1553726000711322,,
+frame,ridge,si_ti_qp,1.2275557999964803,,
+frame,ridge,si_ti_qp_cu,1.370716500096023,,
+frame,ridge,all_easy,1.5717642998788506,,
+frame,hist_gb,rate_type,2.8772593000903726,,
+frame,hist_gb,si_ti,1.26916000014171,,
+frame,hist_gb,qp_only,1.1199930000584573,,
+frame,hist_gb,si_ti_qp,1.3712709001265466,,
+frame,hist_gb,si_ti_qp_cu,1.5554262998048216,,
+frame,hist_gb,all_easy,1.8274943998549134,,
+frame,portable_ridge,si_ti,,0.07780499989166856,"Batch CPU prediction including pandas-to-numpy; excludes video encode, SI/TI, and collection."
+frame,portable_ridge,si_ti_qp_cu,,0.08071411116462615,"Batch CPU prediction including pandas-to-numpy; excludes video encode, SI/TI, and collection."
+frame,portable_ridge,all_easy,,0.11585888892619146,"Batch CPU prediction including pandas-to-numpy; excludes video encode, SI/TI, and collection."
+sequence,ridge,rate_type,0.7490392001345754,,
+sequence,ridge,si_ti,0.7424391999375075,,
+sequence,ridge,qp_only,0.751046400051564,,
+sequence,ridge,si_ti_qp,0.76852190005593,,
+sequence,ridge,si_ti_qp_cu,0.7856943998485804,,
+sequence,ridge,all_easy,0.802317300112918,,
+sequence,hist_gb,rate_type,0.35410399991087615,,
+sequence,hist_gb,si_ti,0.5143454000353813,,
+sequence,hist_gb,qp_only,0.5179118998348713,,
+sequence,hist_gb,si_ti_qp,0.5465098998975009,,
+sequence,hist_gb,si_ti_qp_cu,0.567551399813965,,
+sequence,hist_gb,all_easy,0.5927259000018239,,
+sequence,portable_ridge,si_ti,,7.903116677577297,"Batch CPU prediction including pandas-to-numpy; excludes video encode, SI/TI, and collection."
+sequence,portable_ridge,si_ti_qp_cu,,8.401466649957001,"Batch CPU prediction including pandas-to-numpy; excludes video encode, SI/TI, and collection."
+sequence,portable_ridge,all_easy,,5.671483348123729,"Batch CPU prediction including pandas-to-numpy; excludes video encode, SI/TI, and collection."

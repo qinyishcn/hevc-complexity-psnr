@@ -1,0 +1,129 @@
+{
+  "seed": 20261009,
+  "python": "3.12.10",
+  "sklearn": "1.8.0",
+  "outer": "20 LeaveOneGroupOut folds by source video, all three rates and all frames held together",
+  "ridge_inner": "3 GroupKFold folds over outer-training videos only",
+  "ridge_alphas": [
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ],
+  "nonlinear": {
+    "name": "HistGradientBoostingRegressor",
+    "max_iter": 150,
+    "learning_rate": 0.06,
+    "max_leaf_nodes": 7,
+    "l2_regularization": 10,
+    "early_stopping": false,
+    "min_samples_leaf_frame": 30,
+    "min_samples_leaf_sequence": 5
+  },
+  "feature_groups": {
+    "frame": {
+      "rate_type": [
+        "log2_target_kbps",
+        "is_I",
+        "is_P",
+        "gop_position"
+      ],
+      "si_ti": [
+        "log2_target_kbps",
+        "is_I",
+        "is_P",
+        "gop_position",
+        "si_log",
+        "ti_log"
+      ],
+      "qp_only": [
+        "log2_target_kbps",
+        "is_I",
+        "is_P",
+        "gop_position",
+        "qp"
+      ],
+      "si_ti_qp": [
+        "log2_target_kbps",
+        "is_I",
+        "is_P",
+        "gop_position",
+        "si_log",
+        "ti_log",
+        "qp"
+      ],
+      "si_ti_qp_cu": [
+        "log2_target_kbps",
+        "is_I",
+        "is_P",
+        "gop_position",
+        "si_log",
+        "ti_log",
+        "qp",
+        "intra_cu_pct",
+        "skip_merge_cu_pct"
+      ],
+      "all_easy": [
+        "log2_target_kbps",
+        "is_I",
+        "is_P",
+        "gop_position",
+        "si_log",
+        "ti_log",
+        "qp",
+        "intra_cu_pct",
+        "skip_merge_cu_pct",
+        "log1p_packet_bpp",
+        "source_luma_mean",
+        "source_luma_std"
+      ]
+    },
+    "sequence": {
+      "rate_type": [
+        "log2_target_kbps"
+      ],
+      "si_ti": [
+        "log2_target_kbps",
+        "si_log",
+        "ti_log"
+      ],
+      "qp_only": [
+        "log2_target_kbps",
+        "qp_mean",
+        "qp_std"
+      ],
+      "si_ti_qp": [
+        "log2_target_kbps",
+        "si_log",
+        "ti_log",
+        "qp_mean",
+        "qp_std"
+      ],
+      "si_ti_qp_cu": [
+        "log2_target_kbps",
+        "si_log",
+        "ti_log",
+        "qp_mean",
+        "qp_std",
+        "intra_cu_pct_mean",
+        "skip_merge_cu_pct_mean"
+      ],
+      "all_easy": [
+        "log2_target_kbps",
+        "si_log",
+        "ti_log",
+        "qp_mean",
+        "qp_std",
+        "intra_cu_pct_mean",
+        "skip_merge_cu_pct_mean",
+        "packet_bpp_std",
+        "source_luma_mean",
+        "source_luma_std_mean"
+      ]
+    }
+  },
+  "primary_comparison": "ridge si_ti vs ridge si_ti_qp_cu, frame-level OOF PSNR-Y",
+  "bootstrap": "10000 paired whole-video resamples of fixed OOF errors; conditional descriptive CI, no model refitting",
+  "exported_models": "Full-cohort ridge fit for subsequent unseen inputs; never used as evaluation predictions",
+  "training_thread_limit": 1
+}

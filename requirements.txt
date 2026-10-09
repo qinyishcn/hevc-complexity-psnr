@@ -3,3 +3,5 @@ scipy>=1.13
 pandas>=2.2
 matplotlib>=3.9
 requests>=2.31
+scikit-learn>=1.8
+threadpoolctl>=3.6

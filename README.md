@@ -2,6 +2,32 @@
 
 基于 Xiph 公开测试视频的实际编解码实验，研究空间信息 **SI**、时间信息 **TI** 与相同平均视频码率下重建 **PSNR-Y** 的关系。
 
+## 新增：编码侧参数预测 PSNR（2026-10-09）
+
+已实际采集最终逐帧 **QP、CU 帧内/帧间/Skip-Merge 占比、帧类型、帧包大小与源亮度统计**。采用按源视频留出的 20 折验证，同一视频全部帧和三个码率一起留出；不把随机帧切分的结果当成跨视频能力。Ridge 的结果如下：
+
+| 预测目标 | SI/TI 基线 RMSE dB | 加 QP + CU 占比后 RMSE dB | RMSE 降低 |
+| --- | --- | --- | --- |
+| 逐帧 PSNR-Y | 4.041 | **1.614** | **60.1%** |
+| 全视频 PSNR-Y | 3.684 | **0.975** | **73.5%** |
+
+主要改善来自 QP，CU 占比的额外收益尚不确定；增加包大小/亮度后未继续改善。这里的最终 QP/CU 参数用于**当前帧编码后的质量估计**，不是编码前零代价质量预报。全部 60 次日志重放编码与原码流 SHA-256 一致，避免特征和 PSNR 标签错配。
+
+[新增完整报告](prediction/REPORT.md) · [特征定义与获取时机](prediction/FEATURES.md) · [留出预测](prediction/frame_oof_predictions.csv) · [模型与消融结果](prediction/model_metrics.csv) · [可直接使用的线性模型参数](prediction/ridge_models.json) · [验证记录](prediction/validation.json)
+
+![新增特征消融结果](prediction/figures/feature_ablation.png)
+
+安装依赖后可直接复算，无需下载视频：
+
+```powershell
+python -m unittest test_metrics test_prediction -v
+python predict_psnr.py
+python prediction_report.py
+python validate_prediction.py
+```
+
+## 原始复杂度相关性实验
+
 **本次样本未发现正相关：三个码率下，跨视频的 SI、TI 与 PSNR 均呈统计显著负相关。** 这是对 20 个 CIF 视频、指定 x265 配置的观察结果，不能外推为所有视频或每一帧的规律。
 
 实验日期：2026-10-08；公开整理日期：2026-10-09。

@@ -13,3 +13,4 @@ sources/source_contact_sheet*.png
 *.bin
 *.cutree
 *.stats
+prediction_cache/
